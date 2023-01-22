@@ -1,7 +1,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+### Fork Notice
+This is a fork of the original repo at https://github.com/gunstr/PK2InvenTree
+It includes PRs from:
+- @ServiusHack  https://github.com/rgilham/PK2InvenTree/pull/2
+- @ServiusHack  https://github.com/rgilham/PK2InvenTree/pull/3
+- @Slan85 https://github.com/rgilham/PK2InvenTree/pull/4
 
-# PK2InvenTree Mirage
+# PK2InvenTree Migrate
 
 PK2InvenTree is a open-source tool to enable database migration from [Partkeepr](https://github.com/partkeepr/PartKeepr) to [InvenTree](https://inventree.github.io)
 
